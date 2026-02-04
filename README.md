@@ -14,36 +14,55 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN0N3Z0Z2J0d3A4bXo4dGRkOXFsbWZ6cWh6Y3I0cHc1YjJkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="520"/>
 </p>
+
+<hr/>
 
 <h2>👨‍💻 About Me</h2>
 
 - 🔭 Currently working on **Personal Portfolio**
 - 🌱 Learning **DevOps (Docker • Cloud • CI/CD)**
-- 👯 Looking to collaborate on **FitKart**
-- 👨‍💻 All projects available at **https://adityakumarsingh.tech**
+- 👯 Open to collaborating on **FitKart**
+- 👨‍💻 All projects: **https://adityakumarsingh.tech**
 - 💬 Ask me about **React, Express, Backend APIs, SEO**
 - 📫 Reach me at **adityakumarsingh909@outlook.com**
-- ⚡ Fun fact: *Regional Boxing Champion 🥊 | Hackathon lover | Competitive Programmer*
+- ⚡ Fun fact: *Regional Boxing Champion 🥊 | Hackathon addict | Competitive Programmer*
 
-<h2>🧠 What I Do</h2>
+<hr/>
 
-✔ Build scalable full-stack applications  
-✔ Design RESTful APIs with Node & Express  
-✔ Optimize performance & SEO  
-✔ Deploy apps using Docker & Cloud  
-✔ Write clean, readable, production-ready code  
+<h2>🧠 What I Build</h2>
+
+<ul>
+  <li>⚙️ Scalable full-stack web applications</li>
+  <li>🔗 RESTful APIs using Node.js & Express</li>
+  <li>🚀 Performance-optimized & SEO-friendly apps</li>
+  <li>🐳 Containerized deployments with Docker</li>
+  <li>☁️ Cloud-ready production systems</li>
+</ul>
+
+<hr/>
 
 <h2>🚀 Featured Projects</h2>
 
-🔹 <b>FitKart</b> — Full-stack fitness e-commerce platform  
-👉 https://github.com/adityakumarsingh2/fitkart  
+<p>
+<b>🔹 FitKart</b><br/>
+Full-stack fitness e-commerce platform<br/>
+👉 https://github.com/adityakumarsingh2/fitkart
+</p>
 
-🔹 <b>Personal Portfolio</b> — Modern responsive developer portfolio  
-👉 https://adityakumarsingh.tech  
+<p>
+<b>🔹 Personal Portfolio</b><br/>
+Modern responsive developer portfolio<br/>
+👉 https://adityakumarsingh.tech
+</p>
 
-🔹 <b>Student Record Management API</b> — Node.js + Express CRUD without database  
+<p>
+<b>🔹 Student Record Management API</b><br/>
+Node.js + Express CRUD (File-based backend)
+</p>
+
+<hr/>
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -51,19 +70,19 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,postgres,docker,aws,gcp,git,linux,java,python,cpp"/>
 </p>
 
-<h2>📊 GitHub Stats</h2>
+<hr/>
+
+<h2>📊 GitHub Insights</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakumarsingh2&show_icons=true&theme=tokyonight"/>
+  <img src="https://metrics.lecoq.io/adityakumarsingh2?template=classic&base.indepth=true&languages=1&achievements=1&isocalendar=1&stars=1&followup=1"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumarsingh2&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakumarsingh2&theme=tokyo-night"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumarsingh2&layout=compact&theme=tokyonight"/>
-</p>
+<hr/>
 
 <h2>🏆 Competitive Programming</h2>
 
@@ -77,7 +96,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR5Y3M2NXE1YzN1Y3R0eHNra2xjY2FscHh3eHdxNHV1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="320"/>
 </p>
 
 <p align="center">
