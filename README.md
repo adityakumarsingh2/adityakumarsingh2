@@ -58,8 +58,8 @@ Modern responsive developer portfolio<br/>
 </p>
 
 <p>
-<b>🔹 Student Record Management API</b><br/>
-Node.js + Express CRUD (File-based backend)
+<b>🔹 Internship Portal</b><br/>
+PHP + JQuery, a full stack website for finding Internship
 </p>
 
 <hr/>
