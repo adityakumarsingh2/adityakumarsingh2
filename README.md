@@ -45,16 +45,17 @@
 
 <h2>🚀 Featured Projects</h2>
 
-<p>
-<b>🔹 FitKart</b><br/>
-Full-stack fitness e-commerce platform<br/>
-👉 https://github.com/adityakumarsingh2/fitkart
-</p>
+
 
 <p>
 <b>🔹 Personal Portfolio</b><br/>
 Modern responsive developer portfolio<br/>
 👉 https://adityakumarsingh.tech
+</p>
+<p>
+<b>🔹 FitKart</b><br/>
+Full-stack fitness e-commerce platform<br/>
+👉 https://github.com/adityakumarsingh2/fitkart
 </p>
 
 <p>
@@ -74,9 +75,7 @@ PHP + JQuery, a full stack website for finding Internship
 
 <h2>📊 GitHub Insights</h2>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/adityakumarsingh2?template=classic&base.indepth=true&languages=1&achievements=1&isocalendar=1&stars=1&followup=1"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakumarsingh2&theme=tokyo-night"/>
