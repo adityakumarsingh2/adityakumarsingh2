@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | DevOps Learner | Competitive Programmer | India 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer | Cloud Enthusiast | Competitive Programmer | India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://adityakumarsingh.tech" target="_blank">
